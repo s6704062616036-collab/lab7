@@ -25,4 +25,5 @@ void createArray(int a[][20],int m,int n) {
             num++;   
         }
     }
+
 }
