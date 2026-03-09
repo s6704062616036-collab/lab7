@@ -9,3 +9,4 @@ void main() {
 long convert(long h,long m,long s) {
     return (h*3600)+(m*60)+s;
 }
+
