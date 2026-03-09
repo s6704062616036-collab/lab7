@@ -24,4 +24,5 @@ void printBody(int w,int h) {
         }
         printf("*\n");
     }
+
 }
