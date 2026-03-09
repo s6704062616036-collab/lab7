@@ -21,3 +21,4 @@ int main(void) {
 //i)  a = v + functionP(r, s, t, t); มีข้อผิดพลาาด ต้องรับ int 4 ตัว แต่ส่ง double ทั้งหมด
 //j)  functionP(functionN(a, a), s, t, t+r); มีข้อผิดพลาด ต้องรับ int 4 ตัว แต่ส่ง s, t, t+r เป็น double
 //k)  v = functionP(functionN(a, a), s, t, t+r); มีข้อผิดพลาด s, t, และ t + r ต้องแปลงเป็น int ก่อนส่งไปให้ functionP
+
